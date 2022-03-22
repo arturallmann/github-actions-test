@@ -31,7 +31,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: 'Upload Artifact'
-        uses: actions/upload-artifact@v3
-        with:
-          name: cat.png
-          path: C:/Users/TA-19E-115/Desktop/www
+        run: |
+          ls -lah
+          cp cat.png C:/Users/TA-19E-115/www/cat.png
