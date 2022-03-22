@@ -29,4 +29,4 @@ jobs:
       - name: 'download file'
         run: |
           dir
-          cp *.png C:\Users\TA-19E-115\Desktop\www
+          cp *.png C:\Users\TA-19E-115\Desktop\www\
