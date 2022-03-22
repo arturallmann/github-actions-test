@@ -29,4 +29,4 @@ jobs:
       - name: 'Upload Artifact'
         run: |
           dir
-          cp cat.png C:/Users/TA-19E-115/Desktop/www/cat.png
+          cp *.png C:/Users/TA-19E-115/Desktop/www/
