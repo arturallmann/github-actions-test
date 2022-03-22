@@ -28,5 +28,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: 'download file'
         run: |
-          dir
-          cp *.png C:\Users\TA-19E-115\Desktop\www\
+          cp cat.png C:\Users\TA-19E-115\Desktop\www\cat.png
